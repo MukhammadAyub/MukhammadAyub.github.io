@@ -1,0 +1,70 @@
+
+body 
+{
+    background-color: #1C2833;
+}
+h1 
+{ 
+    font-family: "Algerian";
+    color: #E5E7E9;
+}
+h2
+{
+    font-family: "Algerian";
+    color: #E5E7E9;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+ol
+{
+   
+    font-family: "Anton";
+    color: #7DCEA0;
+}
+ul
+{
+    font-family: "Anton";
+    color: #7DCEA0;
+}
+a
+{
+    color: #943126;
+}
+p
+{
+    font-family: "Anton";
+    color: #7DCEA0;
+}
+b
+{
+    color: #943126;
+}
+i
+{
+    color: #943126;
+}
+p
+{
+    font: 15px/1.5 arial, helvetica, sans-serif;
+}
+
+p:first-letter {
+    float: left;
+    font-size: 24px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
+
